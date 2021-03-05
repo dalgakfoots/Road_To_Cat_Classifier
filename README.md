@@ -11,7 +11,7 @@ Image Classification 모델 중 네트워크 구조의 복잡도가 비교적 �
 ### 사용한 모델  
 * Basic CNN [진행과정](https://github.com/dalgakfoots/Road_To_Cat_Classifier/blob/main/Basic%20CNN/Basic%20CNN.md)
 * AlexNet [진행과정](https://github.com/dalgakfoots/Road_To_Cat_Classifier/blob/main/AlexNet/AlexNet.md)
-* VGG16 [진행과정](https://github.com/dalgakfoots/Road_To_Cat_Classifier/blob/main/VGG16/VGG16%2Cmd)
+* VGG16 [진행과정](https://github.com/dalgakfoots/Road_To_Cat_Classifier/blob/main/VGG16/VGG16.md)
 * GoogLeNet [진행과정](https://github.com/dalgakfoots/Road_To_Cat_Classifier/blob/main/GoogLeNet/GoogLeNet.md)
 * MobileNet v2 [TensorFlow 전이학습 튜토리얼](https://www.tensorflow.org/tutorials/images/transfer_learning?hl=ko)
 ### 학습 종료 시점의 Validation Loss / Accuracy
