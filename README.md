@@ -23,6 +23,6 @@ VGG16 | 0.2939 | 0.8764
 GoogLeNet | 0.2785 | 0.8858
 MobileNet v2 | 0.0623 | 0.9766
 ### Streamlit 을 사용한 WebApp
-Streamlit 을 사용하여 간단한 WebApp을 만들었음.  
+[Streamlit](https://streamlit.io/), [ngrok](https://ngrok.com/) 을 사용하여 간단한 WebApp을 만들었음.  
 구현된 모델들의 predict 결과를 Soft Voting 하여 결과를 표시하도록 함.  
 ![KakaoTalk_20210304_230554657](https://user-images.githubusercontent.com/77476939/110071828-184fae00-7dc0-11eb-87fd-fb618c0d95ff.png)
